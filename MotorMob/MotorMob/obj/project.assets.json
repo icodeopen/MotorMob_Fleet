@@ -631,19 +631,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/solw/.nuget/packages/": {}
+    "/Users/wna/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
+      "projectUniqueName": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
       "projectName": "MotorMob",
-      "projectPath": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
-      "packagesPath": "/Users/solw/.nuget/packages/",
-      "outputPath": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/obj/",
+      "projectPath": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
+      "packagesPath": "/Users/wna/.nuget/packages/",
+      "outputPath": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/solw/.config/NuGet/NuGet.Config"
+        "/Users/wna/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

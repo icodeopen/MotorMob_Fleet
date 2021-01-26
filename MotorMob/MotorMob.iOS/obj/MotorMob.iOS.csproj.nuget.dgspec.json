@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob.iOS/MotorMob.iOS.csproj": {}
+    "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob.iOS/MotorMob.iOS.csproj": {}
   },
   "projects": {
-    "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob.iOS/MotorMob.iOS.csproj": {
+    "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob.iOS/MotorMob.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob.iOS/MotorMob.iOS.csproj",
+        "projectUniqueName": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob.iOS/MotorMob.iOS.csproj",
         "projectName": "MotorMob.iOS",
-        "projectPath": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob.iOS/MotorMob.iOS.csproj",
-        "packagesPath": "/Users/solw/.nuget/packages/",
-        "outputPath": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob.iOS/obj/",
+        "projectPath": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob.iOS/MotorMob.iOS.csproj",
+        "packagesPath": "/Users/wna/.nuget/packages/",
+        "outputPath": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/solw/.config/NuGet/NuGet.Config"
+          "/Users/wna/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj": {
-                "projectPath": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj"
+              "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj": {
+                "projectPath": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj"
               }
             }
           }
@@ -59,17 +59,17 @@
         }
       }
     },
-    "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj": {
+    "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
+        "projectUniqueName": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
         "projectName": "MotorMob",
-        "projectPath": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
-        "packagesPath": "/Users/solw/.nuget/packages/",
-        "outputPath": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/obj/",
+        "projectPath": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
+        "packagesPath": "/Users/wna/.nuget/packages/",
+        "outputPath": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/solw/.config/NuGet/NuGet.Config"
+          "/Users/wna/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

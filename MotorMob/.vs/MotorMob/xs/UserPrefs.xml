@@ -1,10 +1,16 @@
 ﻿<Properties StartupConfiguration="{EF8E0B81-485C-460E-8B99-74CC4ED8A23B}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MotorMob/MainPage.xaml">
+    <Files>
+      <File FileName="MotorMob/MainPage.xaml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MotorMob" expanded="True">
-            <Node name="MotorMob.iOS" expanded="True" selected="True" />
+            <Node name="MotorMob" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+            <Node name="MotorMob.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -12,7 +18,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MotorMob.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MotorMob.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.25BF14E6-471D-43D1-A941-C7A194A4F380" />
+  <MonoDevelop.Ide.ItemProperties.MotorMob.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3AEEE19D-B928-4FC6-AD07-0E0398861944" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.MotorMob FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

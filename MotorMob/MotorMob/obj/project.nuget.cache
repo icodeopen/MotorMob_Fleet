@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "C6TxSw1UQMwYLU11RILClPAo7VIRqKzOUaNtDWKHb3+dj3rcrJ6/BpARXZeVYzoxsQvmhSM75jSabCdG/AivaQ==",
+  "dgSpecHash": "RXtg9RZZqkZvguABofkLxKDMmClBXvWQphnfHSXtqIDH9ZAuB1c4xYRmEM6N0gFI6oMJqiyiFWbcjVslGzN1wQ==",
   "success": true,
-  "projectFilePath": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
+  "projectFilePath": "/Users/wna/devSpace/MotorMob_Fleet/MotorMob/MotorMob/MotorMob.csproj",
   "expectedPackageFiles": [
-    "/Users/solw/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/solw/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/solw/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/solw/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/solw/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "/Users/wna/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/wna/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/wna/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/wna/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/wna/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
   "logs": []
 }
