@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IomzA9+SD//3Qf7RUbSsrzCmt4c9MhLxf6UgRA47onYHBsEl03vLXHYBkrBhcU1fiI1Ju9+tmx08SYPJwDfwBA==",
+  "success": true,
+  "projectFilePath": "/Users/solw/Documents/NalosCode/repos/MotorMob_Fleet/MotorMob/MotorMob.iOS/MotorMob.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/solw/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/solw/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
